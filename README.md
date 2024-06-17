@@ -4,10 +4,13 @@ Whisper is a pre-trained model for automatic speech recognition (ASR) published 
 
 When scaled to 680,000 hours of labelled pre-training data, Whisper models demonstrate a strong ability to generalise to many datasets and domains.
 
+![whisper_architecture](https://github.com/notinrange/University-Living-Task2/assets/88238469/a5da4555-f7a6-45ca-95f7-d9d65b5e3cd6)
+
 The Whisper architecture is a simple end-to-end approach, implemented as an encoder-decoder Transformer. Input audio is split into 30-second chunks, converted into a log-Mel spectrogram, and then passed into an encoder. A decoder is trained to predict the corresponding text caption, intermixed with special tokens that direct the single model to perform tasks such as language identification, phrase-level timestamps, multilingual speech transcription, and to-English speech translation.
 
 ## The name Whisper follows from the acronym “WSPSR”, which stands for “Web-scale Supervised Pre-training for Speech Recognition”.
 
+![asr-details-desktop (1)](https://github.com/notinrange/University-Living-Task2/assets/88238469/699a6f4d-9225-401d-a560-a6b35307df30)
 
 # Steps of Deployment
 
