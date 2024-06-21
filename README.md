@@ -27,3 +27,4 @@ The Whisper architecture is a simple end-to-end approach, implemented as an enco
 
 
 [Link of Colab NOTEBOOK](https://colab.research.google.com/drive/1raY0GIXTAapyL1pxyg90O1wS_5VkcNFS?usp=sharing)
+[Deployment Link](https://huggingface.co/spaces/notinrange/University_Living_Task2)
